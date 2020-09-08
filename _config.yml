@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Eunyoung JEON
+title: JEON EUN YOUNG
 
 # Your name to show in the footer
 author: Some Person
@@ -14,7 +14,7 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "JEON EUN YOUNG"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -39,16 +39,16 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "s2@silverzer0.com"
+  facebook: real1004
+  github: 0silver00
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: silverzero0o
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
