@@ -15,12 +15,7 @@ author: Jeon Eunyoung
 
 navbar-links:
   About Me: "1About Me"
-#  Blog: "https://real1004zz.tistory.com"
-  SNS:
-    - Blog: "https://real1004zz.tistory.com"
-    - Github: "https://github.com/0silver00"
-    - Facebook: "https://facebook.com/real1004"
-    - Instagram: "https://instagram.com/silverzero0o"
+  Blog: "https://real1004zz.tistory.com"
 #  Resources: "https://real1004zz.tistory.com"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -46,15 +41,15 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "s2@silverzer0.com"
-#  facebook: real1004
-#  github: 0silver00
+  facebook: real1004
+  github: 0silver00
 #  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: silverzero0o
+  instagram: silverzero0o
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
