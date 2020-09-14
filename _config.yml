@@ -14,7 +14,7 @@ author: Jeon Eunyoung
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About Me"
+  About Me: "aboutme"
   Blog: "https://real1004zz.tistory.com"
 #  Resources: "https://real1004zz.tistory.com"
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
