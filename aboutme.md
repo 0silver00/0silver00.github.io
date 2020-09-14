@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Why you'd want to go with me
 ---
+<br><br>
 
 ## INTRODUCE
 - 전은영(全恩影)
