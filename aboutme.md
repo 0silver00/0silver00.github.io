@@ -11,9 +11,9 @@ subtitle: Why you'd want to go on a date with me
 
 ### EDUCATION & EXPERIENCE
 
-- Graduated from Gangneung-Wonju National University<br>
-  in Information Technology Engineering <br>
-  GPA: 3.72/4.5
+- Graduated from <b>Gangneung-Wonju National University</b><br>
+  in <b>Information Technology Engineering</b><br>
+  GPA: 3.72/4.5<br>
   March 2014 - February 2018
 - 
   
