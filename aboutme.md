@@ -5,12 +5,11 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 ## Jeon Eun Young.
-
 - 전은영(全恩影)
 - Contact | s2@silverzer0.com
 
-### EDUCATION & EXPERIENCE
 
+## EDUCATION & EXPERIENCE
 - Graduated from <b>Gangneung-Wonju National University</b><br>
   in Information Technology Engineering<br>
   GPA: 3.72/4.5<br>
