@@ -8,7 +8,19 @@ subtitle: Why you'd want to go on a date with me
 
 - 전은영(全恩影)
 - Contact | s2@silverzer0.com
+
+### EDUCATION & EXPERIENCE
+
+- Graduated from Gangneung-Wonju National University 
+  in Information Technology Engineering 
+  GPA: 3.72/4.5
+  March 2014 - February 2018
+- 
   
+  
+## Project
+
+
 
 ### My story
 
