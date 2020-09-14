@@ -8,7 +8,7 @@ subtitle: Why you'd want to go with me
 - 전은영(全恩影)
 - JEON EUN YOUNG
 - Contact: s2@silverzer0.com
-
+<br><br>
 
 ## EDUCATION & EXPERIENCE
 - Graduated from <b>Gangneung-Wonju National University</b><br>
@@ -21,19 +21,21 @@ subtitle: Why you'd want to go with me
 - <b>Best of the Best</b>(KITRI 차세대 보안리더 양성과정)<br>
   9th Security Product Development Track<br>
   July 2020 - ing
-  
+<br><br>
   
 ## TOY PROJECT
 - Smart Desk
 * dfdf
+<br><br>
 
 ## Additional 
 #### Certificate
 - 정보처리기사(00.00.00.)
 - CCNA(00.00.00.)
 - 네트워크관리사 2급(00.00.00.)
-
+<br>
 ##### External Activities
+<br>
 
 ### 
 
