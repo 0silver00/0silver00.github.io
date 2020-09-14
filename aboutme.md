@@ -4,10 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Jeon Eun Young.
+## My name is Jeon Eun Young.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- 전은영(全恩影)
+- Contact | s2@silverzer0.com
+  
 
 What else do you need?
 
