@@ -22,9 +22,19 @@ subtitle: Why you'd want to go on a date with me
   July 2020 - ing
   
   
-## Project
+## TOY PROJECT
+- Smart Desk
+* dfdf
 
+## Additional 
+### Certificate
+- 정보처리기사(00.00.00.)
+- CCNA(00.00.00.)
+- 네트워크관리사 2급(00.00.00.)
 
+### External Activities
+
+### 
 
 ### My story
 
