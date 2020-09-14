@@ -26,7 +26,13 @@ subtitle: Why you'd want to go with me
   
 ## TOY PROJECT
 - Smart Desk
-* dfdf
+  + Intel IoT Roadshow 3rd
+  + ~~~~
+  + ~~~~
+- asdfasdf
+  + ~~~
+  + ~~~
+  + ~~~~~
 <br><br>
 
 ## Additional 
@@ -35,7 +41,9 @@ subtitle: Why you'd want to go with me
 - CCNA(00.00.00.)
 - 네트워크관리사 2급(00.00.00.)
 <br>
-##### External Activities
+
+#### External Activities
+- dddd
 <br>
 
 ### 
