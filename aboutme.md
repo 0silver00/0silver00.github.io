@@ -4,13 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-## My name is Jeon Eun Young.
+## Jeon Eun Young.
 
 - 전은영(全恩影)
 - Contact | s2@silverzer0.com
   
-
-What else do you need?
 
 ### My story
 
