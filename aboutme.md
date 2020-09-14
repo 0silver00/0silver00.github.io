@@ -25,19 +25,19 @@ subtitle: Why you'd want to go with me
 <br><br>
   
 ## TOY PROJECT
-- Smart Desk
+- <b>Smart Desk</b>
   + Software Developer
   + Intel IoT Roadshow 3rd
   + asdf
   + adf
-- asdfasdf
+- <b>asdfasdf</b>
   + asdf
   + adsf
   + adsf
-- Libarary Reservation System
+- <b>Libarary Reservation System</b>
   + Project Manager
   + adsf
-- asdffdff
+- <b>sdffdff</b>
 <br><br>
 
 ## Additional 
