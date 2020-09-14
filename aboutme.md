@@ -12,10 +12,15 @@ subtitle: Why you'd want to go on a date with me
 ### EDUCATION & EXPERIENCE
 
 - Graduated from <b>Gangneung-Wonju National University</b><br>
-  in <b>Information Technology Engineering</b><br>
+  in Information Technology Engineering<br>
   GPA: 3.72/4.5<br>
   March 2014 - February 2018
-- 
+- <b>Republic of Korean Army Officer<b><br>
+  First Lieutenant
+  March 2018 - June 2020 
+- <b>Best of the Best</b><br>
+  9th Security Product Development Track<br>
+  July 2020 - ing
   
   
 ## Project
