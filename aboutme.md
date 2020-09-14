@@ -18,7 +18,7 @@ subtitle: Why you'd want to go with me
 - <b>Republic of Korean Army Officer</b><br>
   First Lieutenant(Information and Communication)<br>
   March 2018 - June 2020 
-- <b>Best of the Best</b><br>
+- <b>Best of the Best</b>(KITRI 차세대 보안리더 양성과정)<br>
   9th Security Product Development Track<br>
   July 2020 - ing
   
